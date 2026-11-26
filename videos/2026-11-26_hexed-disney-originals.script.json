@@ -1,0 +1,126 @@
+{
+ "topic_label": "HEXED \u2022 DISNEY'S THANKSGIVING BET",
+ "lens": "movies",
+ "voice": "af_heart",
+ "list_total": 4,
+ "countdown": true,
+ "tts_replace": {
+  "Moana 2": "Moana two",
+  "Disney Plus": "Disney plus"
+ },
+ "scenes": [
+  {
+   "scene": "hook",
+   "big": "3 ORIGINALS < 1 SEQUEL",
+   "sub": "Disney's Thanksgiving openings",
+   "lines": [
+    "Why did Disney's last three original Thanksgiving movies,",
+    "added together,",
+    "open smaller than one sequel?"
+   ]
+  },
+  {
+   "scene": "why",
+   "big": "HEXED",
+   "sub": "Disney's new original, in theaters now",
+   "lines": [
+    "This week, Disney's betting the holiday on a new original again.",
+    "It's called Hexed. Here's what it's up against."
+   ],
+   "media": {
+    "src": "/home/claude/media/hexed_a.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "4",
+   "big": "$18.6M",
+   "sub": "Strange World \u00b7 2022 \u00b7 5-day opening",
+   "lines": [
+    "Four. Strange World. Eighteen point six million over five days.",
+    "Per CNBC, Disney animation's weakest start since two thousand."
+   ],
+   "media": {
+    "src": "/home/claude/media/sw.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "3",
+   "big": "$31.6M",
+   "sub": "Wish \u00b7 2023 \u00b7 5-day opening",
+   "lines": [
+    "Three. Wish. Thirty-one point six million.",
+    "Analysts expected up to fifty-five."
+   ],
+   "media": {
+    "src": "/home/claude/media/wish.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "2",
+   "big": "$40.3M",
+   "sub": "Encanto \u00b7 2021 \u00b7 5-day opening",
+   "lines": [
+    "Two. Encanto. About forty million.",
+    "Then it blew up on Disney Plus."
+   ],
+   "media": {
+    "src": "/home/claude/media/encanto.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "1",
+   "big": "$225M",
+   "sub": "Moana 2 \u00b7 2024 \u00b7 5-day opening",
+   "bars": [
+    {
+     "label": "3 originals combined",
+     "value": 90.5,
+     "text": "$90M"
+    },
+    {
+     "label": "Moana 2 alone",
+     "value": 225.4,
+     "text": "$225M"
+    }
+   ],
+   "lines": [
+    "Number one. Moana 2. Two hundred twenty-five million.",
+    "One sequel... more than double all three originals combined."
+   ],
+   "media": {
+    "src": "/home/claude/media/moana2.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "next",
+   "big": "$30M\u2013$70M?",
+   "sub": "Hexed 5-day forecasts vary",
+   "lines": [
+    "Hexed's forecasts run from about thirty to seventy million.",
+    "And that number tells Disney whether originals are still worth the risk."
+   ],
+   "media": {
+    "src": "/home/claude/media/hexed_b.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "cta",
+   "lines": [
+    "Original or sequel...",
+    "which one is your family seeing this weekend?"
+   ]
+  }
+ ]
+}
