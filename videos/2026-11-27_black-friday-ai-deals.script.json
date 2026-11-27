@@ -1,0 +1,114 @@
+{
+ "topic_label": "BLACK FRIDAY \u2022 AI SHOPPERS",
+ "lens": "tech",
+ "voice": "af_heart",
+ "tts_replace": {
+  "US": "U S"
+ },
+ "scenes": [
+  {
+   "scene": "hook",
+   "big": "+805%",
+   "sub": "AI shoppers, Black Friday 2025",
+   "lines": [
+    "Store visits from AI chatbots jumped over eight hundred percent last Black Friday.",
+    "So why aren't the deals getting any bigger?"
+   ],
+   "media": {
+    "src": "media/adobe_dec_dark.jpg",
+    "type": "image",
+    "credit": "Adobe Analytics"
+   }
+  },
+  {
+   "scene": "why",
+   "big": "ONE NUMBER",
+   "sub": "What your chatbot is finding",
+   "lines": [
+    "Asking a chatbot for a deal today?",
+    "One number tells you what it'll find."
+   ]
+  },
+  {
+   "scene": "n1",
+   "big": "+127%",
+   "sub": "AI visits to stores, Nov 1-22",
+   "lines": [
+    "And that was just the start.",
+    "This November, AI visits to online stores have more than doubled again."
+   ],
+   "media": {
+    "src": "media/dc360_card.png",
+    "type": "post",
+    "credit": "Digital Commerce 360"
+   }
+  },
+  {
+   "scene": "n2",
+   "big": "$12.9B",
+   "sub": "Online, today alone (forecast)",
+   "lines": [
+    "Adobe expects twelve point nine billion dollars spent online today.",
+    "That's up about nine percent."
+   ],
+   "media": {
+    "src": "media/adobe_sep_card.png",
+    "type": "post",
+    "credit": "Adobe newsroom"
+   }
+  },
+  {
+   "scene": "n3",
+   "big": "30% OFF",
+   "sub": "Deepest electronics deals",
+   "bars": [
+    {
+     "label": "2025",
+     "value": 30.1,
+     "text": "30.1%"
+    },
+    {
+     "label": "2026 FORECAST",
+     "value": 30,
+     "text": "30%"
+    }
+   ],
+   "lines": [
+    "But the deals?",
+    "Adobe's forecast for the deepest electronics discounts is thirty percent off.",
+    "Last year, it was thirty point one."
+   ]
+  },
+  {
+   "scene": "src",
+   "big": "WHO'S COUNTING?",
+   "sub": "Adobe data from stores using its software",
+   "lines": [
+    "Quick note. These numbers come from Adobe,",
+    "which measures the stores that use its software."
+   ],
+   "media": {
+    "src": "media/adobe_sep_dark.jpg",
+    "type": "image",
+    "credit": "Adobe Analytics"
+   }
+  },
+  {
+   "scene": "payoff",
+   "big": "SAME DEALS",
+   "sub": "Faster search, same discount",
+   "lines": [
+    "So shoppers got a brand new tool.",
+    "The discounts stayed right where they were.",
+    "A chatbot can find the deal faster. It can't make it bigger."
+   ]
+  },
+  {
+   "scene": "cta",
+   "lines": [
+    "Would you let a chatbot do your Black Friday shopping?",
+    "Follow for more."
+   ]
+  }
+ ]
+}
