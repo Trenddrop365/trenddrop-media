@@ -1,0 +1,467 @@
+{
+ "topic_label": "TREND DROP WEEKLY \u2022 EP. 2",
+ "lens": "culture",
+ "voice": "af_heart",
+ "tts_replace": {
+  "GTA 6": "GTA six",
+  "GTA V": "GTA five",
+  "PS5": "PS five",
+  "PS4": "PS four",
+  "DDR5": "DDR five",
+  "Moana 2": "Moana two",
+  "CinemaScore": "Cinema Score",
+  "A-minus": "A minus",
+  "SK Hynix": "SK Hynix",
+  "IMAX": "eye-max",
+  "Metacritic": "Meta-critic"
+ },
+ "scenes": [
+  {
+   "scene": "cold",
+   "big": "$110 OFF > THE WHOLE KIT",
+   "sub": "This week's strangest Black Friday deal",
+   "lines": [
+    "One of this week's biggest Black Friday deals on PC memory takes a hundred and ten dollars off.",
+    "Last year, a hundred and ten dollars bought the whole kit.",
+    "That's the kind of week it was. Prices that went the wrong way, scores that don't agree, and a movie that couldn't get the screens it was built for.",
+    "This is Trend Drop Weekly, episode two. Five stories from November twenty-second to the twenty-eighth, and what they actually mean for you."
+   ]
+  },
+  {
+   "scene": "ch1",
+   "chapter": "1",
+   "lens": "gaming",
+   "big": "GTA 6: 99 VS 5",
+   "sub": "Who gets to score a game?",
+   "lines": [
+    "Story one. The best-reviewed game ever, with a user score of five."
+   ]
+  },
+  {
+   "scene": "g1",
+   "lens": "gaming",
+   "big": "99 METASCORE",
+   "sub": "Tied with Ocarina of Time (1998)",
+   "lines": [
+    "GTA 6 launched on November nineteenth with a ninety-nine on Metacritic.",
+    "Only one game had ever hit that number before. Ocarina of Time, back in nineteen ninety-eight.",
+    "So you'd expect players to agree. Three days later, the user score on the same site was sitting at about five out of ten."
+   ]
+  },
+  {
+   "scene": "g2",
+   "lens": "gaming",
+   "big": "WHO CAN RATE?",
+   "sub": "Metacritic: anyone \u2022 PS Store: owners only",
+   "lines": [
+    "Here's the detail most of the backlash videos skipped.",
+    "Anyone can rate a game on Metacritic. You don't have to own it. You don't even have to play it.",
+    "Thousands of negative ratings showed up within a day of launch.",
+    "On the PlayStation Store, only people who bought the game can rate it."
+   ]
+  },
+  {
+   "scene": "g3",
+   "lens": "gaming",
+   "big": "4.84 / 5",
+   "sub": "~170K owner ratings on the PS Store",
+   "bars": [
+    {
+     "label": "Metacritic users (out of 10)",
+     "value": 5.5,
+     "text": "5.5"
+    },
+    {
+     "label": "PS Store owners (out of 10)",
+     "value": 9.7,
+     "text": "9.7"
+    }
+   ],
+   "lines": [
+    "There, about a hundred and seventy thousand owners give it four point eight four out of five.",
+    "On a ten-point scale, that's roughly nine point seven.",
+    "So the people who paid for it rate it close to the critics. The five comes from a site with no ownership check."
+   ]
+  },
+  {
+   "scene": "g4",
+   "lens": "gaming",
+   "big": "HALF TRUE",
+   "sub": "The 30 fps complaint is real",
+   "lines": [
+    "That doesn't mean every complaint is fake.",
+    "The game targets thirty frames per second on consoles, with no performance mode, and plenty of real players noticed.",
+    "But a thirty frames complaint and a five out of ten are very different claims.",
+    "Which brings us to the money. Because this week, the thing getting more expensive wasn't the games. It was the hardware."
+   ]
+  },
+  {
+   "scene": "g5",
+   "lens": "gaming",
+   "big": "WHY IT MATTERS",
+   "sub": "Check who's rating before you trust a score",
+   "lines": [
+    "Why does this matter if you haven't bought it yet?",
+    "Because the next time you see a user score, the first question is who's allowed to leave one.",
+    "A store that only lets buyers rate is a better signal than a site where anyone can type a number.",
+    "And remember the scale. Take-Two says it sold thirty-two and a half million copies before launch day even started. A few thousand angry ratings are loud, but they're a tiny slice of the people actually playing."
+   ]
+  },
+  {
+   "scene": "ch2",
+   "chapter": "2",
+   "lens": "tech",
+   "big": "HARDWARE WENT UP",
+   "sub": "PS5 and RAM, Black Friday 2026",
+   "lines": [
+    "Story two. The Black Friday where hardware got pricier."
+   ]
+  },
+  {
+   "scene": "t1",
+   "lens": "tech",
+   "big": "$399 \u2192 $599",
+   "sub": "PS5 Digital, 2020 vs today (US list)",
+   "bars": [
+    {
+     "label": "PS5 Digital at launch, Nov 2020",
+     "value": 399.99,
+     "text": "$399"
+    },
+    {
+     "label": "Black Friday refurb, 2026",
+     "value": 499,
+     "text": "$499"
+    },
+    {
+     "label": "PS5 Digital list price, 2026",
+     "value": 599.99,
+     "text": "$599"
+    }
+   ],
+   "lines": [
+    "Consoles used to get cheaper with age. The PS4 dropped fifty dollars two years after launch.",
+    "The PS5 went the other way. The Digital Edition launched at three ninety-nine in twenty twenty.",
+    "Today it lists at five ninety-nine.",
+    "And Sony's best PS5 deal this Black Friday is a refurbished one, at four ninety-nine. That's still a hundred dollars more than a brand new one cost in twenty twenty."
+   ]
+  },
+  {
+   "scene": "t1b",
+   "lens": "tech",
+   "big": "-58%",
+   "sub": "US PS5 units, May 2026 (Circana)",
+   "lines": [
+    "And higher prices have a cost for Sony too.",
+    "In May, US PS5 unit sales fell fifty-eight percent from a year earlier, according to Circana. The worst May for PlayStation hardware since two thousand.",
+    "The PS5 Pro went from six ninety-nine to eight ninety-nine. So the console that's supposed to make GTA 6 look its best now costs about as much as a decent gaming PC used to."
+   ]
+  },
+  {
+   "scene": "t2",
+   "lens": "tech",
+   "big": "~5X",
+   "sub": "32GB DDR5 kit: 2025 low vs Black Friday 2026",
+   "bars": [
+    {
+     "label": "2025 low",
+     "value": 86,
+     "text": "$86"
+    },
+    {
+     "label": "Black Friday 2026 deals from",
+     "value": 440,
+     "text": "~$440"
+    }
+   ],
+   "lines": [
+    "PC memory is worse.",
+    "A thirty-two gigabyte DDR5 kit sold for under ninety dollars in twenty twenty-five.",
+    "This Black Friday, the deals start around four hundred and forty. About five times as much.",
+    "And one of the biggest discounts, a hundred and ten dollars off a Corsair kit, is more than the entire kit cost last year."
+   ]
+  },
+  {
+   "scene": "t2b",
+   "lens": "tech",
+   "big": "CHECK THE LIST PRICE",
+   "sub": "A deal is only a deal vs the old price",
+   "lines": [
+    "Here's the trap. A Black Friday tag shows you a discount off today's list price.",
+    "When the list price itself has gone up five times, a big red discount can still be the most you've ever paid.",
+    "Engadget found the same thing last year: plenty of Black Friday RAM specials weren't actually cheaper than the regular price had been.",
+    "So the number to compare isn't the discount. It's what the same part cost a year ago."
+   ]
+  },
+  {
+   "scene": "t3",
+   "lens": "tech",
+   "big": "AI GETS THE CHIPS",
+   "sub": "Memory makers sell to data centers first",
+   "lines": [
+    "So why? The same reason shows up in both stories.",
+    "Memory makers are selling to AI data centers first, and reporting ties Sony's price hikes to the same memory squeeze.",
+    "SK Hynix's own CEO expects the worst of the shortage in twenty twenty-seven, with demand ahead of supply past twenty thirty.",
+    "So if you're waiting for a cheap upgrade, the companies making the chips are telling you it isn't coming soon."
+   ]
+  },
+  {
+   "scene": "ch3",
+   "chapter": "3",
+   "lens": "tech",
+   "big": "AI SHOPPERS",
+   "sub": "More traffic. Same discounts.",
+   "lines": [
+    "Story three. The shoppers who brought a robot."
+   ]
+  },
+  {
+   "scene": "a1",
+   "lens": "tech",
+   "big": "+805%",
+   "sub": "Store visits from AI chatbots, Black Friday 2025",
+   "lines": [
+    "Last Black Friday, store visits that came from AI chatbots jumped over eight hundred percent, according to Adobe's data.",
+    "This year it's climbing again. Up about a hundred and twenty-seven percent from November first to the twenty-second.",
+    "And Adobe expects Black Friday itself to bring in about twelve point nine billion dollars online."
+   ]
+  },
+  {
+   "scene": "a1b",
+   "lens": "tech",
+   "big": "$11.8B \u2192 $12.9B",
+   "sub": "US online Black Friday spend (Adobe)",
+   "bars": [
+    {
+     "label": "Black Friday 2025",
+     "value": 11.8,
+     "text": "$11.8B"
+    },
+    {
+     "label": "Black Friday 2026 forecast",
+     "value": 12.9,
+     "text": "$12.9B"
+    }
+   ],
+   "lines": [
+    "To put that in context, Black Friday twenty twenty-five brought in about eleven point eight billion dollars online.",
+    "This year's forecast is up about nine percent.",
+    "And Cyber Monday is still the bigger day. Last year it hit about fourteen and a quarter billion."
+   ]
+  },
+  {
+   "scene": "a2",
+   "lens": "tech",
+   "big": "30.1% \u2192 30%",
+   "sub": "Adobe: deepest electronics discount, 2025 vs 2026",
+   "bars": [
+    {
+     "label": "Deepest electronics discount, 2025",
+     "value": 30.1,
+     "text": "30.1%"
+    },
+    {
+     "label": "Forecast, 2026",
+     "value": 30,
+     "text": "30%"
+    }
+   ],
+   "lines": [
+    "So shoppers have a new tool for finding deals. Did the deals get bigger?",
+    "No. Adobe's forecast for the deepest electronics discount this year is up to thirty percent. Last year it was thirty point one.",
+    "A chatbot can find the deal faster. It can't make it bigger.",
+    "One more thing worth knowing. These numbers come from Adobe, which measures stores that use its own software. That's a big sample, but it's not every store."
+   ]
+  },
+  {
+   "scene": "ch4",
+   "chapter": "4",
+   "lens": "movies",
+   "big": "DOOMSDAY: NO IMAX",
+   "sub": "Spoiler-free",
+   "lines": [
+    "Story four. Spoiler-free. The Avengers movie that can't get an IMAX screen."
+   ]
+  },
+  {
+   "scene": "d1",
+   "lens": "movies",
+   "big": "SHOT ON IMAX",
+   "sub": "Infinity War + Endgame",
+   "lines": [
+    "Infinity War and Endgame were the first Hollywood features shot entirely on IMAX digital cameras.",
+    "Avengers: Doomsday opens December eighteenth. And in the US, it won't be in IMAX at all.",
+    "Dune: Part Three opens the same night and holds US IMAX screens for three weeks."
+   ]
+  },
+  {
+   "scene": "d2",
+   "lens": "movies",
+   "big": "$16.5M DAY ONE",
+   "sub": "Presales on Disney's own premium screens",
+   "lines": [
+    "So Disney built its own answer. It's called Infinity Vision, a premium-screen label it announced in April, covering formats like Dolby, 4DX and ScreenX.",
+    "Did losing IMAX hurt? Not so far. Presales made sixteen and a half million dollars on the first day.",
+    "And reportedly, more than seventy percent of its first fifty million in presales came from those Infinity Vision screens."
+   ]
+  },
+  {
+   "scene": "d2b",
+   "lens": "movies",
+   "big": "~1,000 SCREENS",
+   "sub": "Infinity Vision on presale day one",
+   "lines": [
+    "That first sixteen and a half million came from roughly a thousand premium screens.",
+    "For comparison, the whole point of IMAX was always that it's the biggest, best screen in the building.",
+    "Disney is betting that a big Avengers movie can make its own label feel just as special."
+   ]
+  },
+  {
+   "scene": "d3",
+   "lens": "movies",
+   "big": "THE QUESTION",
+   "sub": "Does the format sell the ticket, or the movie?",
+   "lines": [
+    "So the franchise that helped make IMAX a selling point is now proving it might not need IMAX at all.",
+    "Which is a nice setup for the last story. Because over Thanksgiving, we found out what really sells a ticket."
+   ]
+  },
+  {
+   "scene": "ch5",
+   "chapter": "5",
+   "lens": "movies",
+   "big": "THANKSGIVING BOX OFFICE",
+   "sub": "Hexed vs The Hunger Games",
+   "lines": [
+    "Story five. Thanksgiving at the box office."
+   ]
+  },
+  {
+   "scene": "b1",
+   "lens": "movies",
+   "big": "$85M VS $35M",
+   "sub": "5-day projections (THR, Variety, Deadline)",
+   "bars": [
+    {
+     "label": "Hexed (Disney original)",
+     "value": 35,
+     "text": "$35M"
+    },
+    {
+     "label": "Sunrise on the Reaping (week 2)",
+     "value": 85,
+     "text": "$85M"
+    }
+   ],
+   "lines": [
+    "The Hunger Games: Sunrise on the Reaping opened to a hundred and nineteen million last weekend.",
+    "In its second week, over the five-day holiday, it's projected at about eighty-five million.",
+    "Disney's new original, Hexed, which reportedly cost over two hundred million dollars, is tracking around thirty-five."
+   ]
+  },
+  {
+   "scene": "b2",
+   "lens": "movies",
+   "big": "SAME GRADE",
+   "sub": "Both A- CinemaScore (THR \u2022 Gold Derby)",
+   "lines": [
+    "Here's the surprising part. Audiences liked both movies the same.",
+    "Hexed got an A-minus CinemaScore. Sunrise on the Reaping got an A-minus too, according to Gold Derby.",
+    "And critics scored them within a few points of each other."
+   ]
+  },
+  {
+   "scene": "b3",
+   "lens": "movies",
+   "big": "ORIGINALS VS SEQUELS",
+   "sub": "Disney at Thanksgiving, 5-day openings",
+   "bars": [
+    {
+     "label": "Strange World + Wish + Encanto",
+     "value": 90.5,
+     "text": "$90.5M"
+    },
+    {
+     "label": "Moana 2 alone",
+     "value": 225.4,
+     "text": "$225M"
+    }
+   ],
+   "lines": [
+    "And it's a pattern. Disney's last three original Thanksgiving movies, Strange World, Wish and Encanto, opened to about ninety million dollars combined.",
+    "Moana 2, a sequel, opened to two hundred and twenty-five million on its own.",
+    "Same studio. Same holiday. It's not the movie that's losing. It's the name on the poster.",
+    "These are still projections. Sunday's numbers can move."
+   ]
+  },
+  {
+   "scene": "b4",
+   "lens": "movies",
+   "big": "WHAT HAPPENS NEXT",
+   "sub": "Encanto started small too",
+   "lines": [
+    "But here's the twist that should keep Disney from panicking.",
+    "Encanto opened to about forty million over the same holiday in twenty twenty-one. Soft.",
+    "Then it hit Disney Plus, and a song from it went to number one on the Billboard Hot 100.",
+    "Wish didn't get that second life. It opened to thirty-one point six million on a reported budget of around a hundred and seventy-five million.",
+    "So Hexed's real test might not be this weekend at all. It might be streaming."
+   ]
+  },
+  {
+   "scene": "ch6",
+   "chapter": "6",
+   "lens": "culture",
+   "big": "QUICK HITS",
+   "sub": "Three more you should know",
+   "lines": [
+    "Quick hits."
+   ]
+  },
+  {
+   "scene": "q1",
+   "lens": "movies",
+   "big": "42M VIEWS",
+   "sub": "Avengers: Doomsday final trailer",
+   "lines": [
+    "The Avengers: Doomsday final trailer reached about forty-two million views and sat at number two on US YouTube trending this week, surrounded by breakdown videos."
+   ]
+  },
+  {
+   "scene": "q2",
+   "lens": "movies",
+   "big": "$90M + 28%",
+   "sub": "Focker-in-Law: budget and Rotten Tomatoes",
+   "lines": [
+    "Focker-in-Law, with a ninety million dollar budget and a twenty-eight percent on Rotten Tomatoes, still out-earned Hexed on Thanksgiving Day."
+   ]
+  },
+  {
+   "scene": "q3",
+   "lens": "gaming",
+   "big": "$3.79B",
+   "sub": "GTA 6 day-one sales (Take-Two's estimate)",
+   "lines": [
+    "And the backdrop to all of it. Take-Two says GTA 6 sold three point seven nine billion dollars on day one. That's more than Endgame made in its entire run in theaters.",
+    "Cyber Monday is November thirtieth, so expect the deal numbers to keep coming."
+   ]
+  },
+  {
+   "scene": "verdict",
+   "big": "THE VERDICT",
+   "sub": "This week, the label beat the thing",
+   "lines": [
+    "So here's the week's verdict.",
+    "Again and again, the label beat the thing itself.",
+    "A score from people who never played the game. A discount off a price that went up five times. An IMAX logo the movie, so far, hasn't needed. And a poster with a familiar name on it, beating a movie audiences liked just as much.",
+    "If there's one habit worth keeping from this week, it's this. Before you trust a number, ask who made it, and what they'd want you to believe."
+   ]
+  },
+  {
+   "scene": "cta",
+   "lines": [
+    "Which story surprised you most? Tell us in the comments.",
+    "And subscribe for next week's drop."
+   ]
+  }
+ ]
+}
