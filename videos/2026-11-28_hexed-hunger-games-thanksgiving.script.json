@@ -1,0 +1,111 @@
+{
+ "topic_label": "THANKSGIVING BOX OFFICE",
+ "lens": "movies",
+ "voice": "af_heart",
+ "tts_replace": {
+  "CinemaScore": "Cinema Score",
+  "A-minus": "A minus",
+  "Moana 2": "Moana two",
+  "Moana 3": "Moana three"
+ },
+ "scenes": [
+  {
+   "scene": "hook",
+   "big": "$85M VS $35M",
+   "sub": "Week two beat Disney's new film",
+   "lines": [
+    "Why is a Hunger Games movie in its second week",
+    "making more than double Disney's new two-hundred-million-dollar movie?"
+   ],
+   "media": {
+    "src": "media/sotr.jpg",
+    "type": "image",
+    "credit": "Lionsgate"
+   }
+  },
+  {
+   "scene": "stakes",
+   "big": "$200M+",
+   "sub": "Hexed's reported budget",
+   "lines": [
+    "Hexed reportedly cost over two hundred million dollars.",
+    "It's on track for about thirty-five million over the five-day holiday.",
+    "The Hunger Games? About eighty-five million."
+   ],
+   "media": {
+    "src": "media/g_disneymovies_hexed_payoff_12e41277.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "m1",
+   "kind": "half",
+   "big": "DISNEY OWNS THANKSGIVING",
+   "source": "THR \u2022 Deadline",
+   "lines": [
+    "Myth one. Disney owns Thanksgiving.",
+    "Half true. Its sequels do. Moana 2 made two hundred twenty-five million here.",
+    "Its last original, Wish? Thirty-one point six."
+   ],
+   "media": {
+    "src": "media/moana2.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "m2",
+   "kind": "myth",
+   "big": "AUDIENCES HATED IT",
+   "source": "CinemaScore via THR",
+   "lines": [
+    "Myth two. Hexed is failing because people don't like it.",
+    "The people who saw it gave it an A-minus CinemaScore."
+   ],
+   "media": {
+    "src": "media/g_disneymovies_hexed_still_1_d7e1383c.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "m3",
+   "kind": "fact",
+   "big": "SAME GRADE",
+   "sub": "Hexed A- \u2022 Hunger Games A-",
+   "source": "HEXED: THR \u2022 HUNGER GAMES: GOLD DERBY",
+   "lines": [
+    "The Hunger Games movie got the exact same grade.",
+    "And critics scored them within a few points."
+   ],
+   "media": {
+    "src": "media/sotr.jpg",
+    "type": "image",
+    "credit": "Lionsgate"
+   }
+  },
+  {
+   "scene": "payoff",
+   "big": "THE NAME SELLS",
+   "sub": "Not the reviews",
+   "lines": [
+    "Same reviews. Double the money.",
+    "It's not the movie that's losing. It's the name on the poster.",
+    "These are projections. Sunday's numbers can move."
+   ],
+   "media": {
+    "src": "media/g_disneymovies_hexed_still_3_4ff9ec7f.jpg",
+    "type": "image",
+    "credit": "Disney"
+   }
+  },
+  {
+   "scene": "cta",
+   "big": "SEQUEL OR ORIGINAL?",
+   "lines": [
+    "Should Disney keep betting on originals, or just make Moana 3?"
+   ]
+  }
+ ]
+}
